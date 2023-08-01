@@ -47,6 +47,15 @@ nav{
     flex-direction: row;
     justify-content: center;
 }
+.link-whatsup{
+    position: relative;
+    top: 40px;
+    border: 1px solid red;
+    height: 50%;
+    width: 30%;
+
+}
+
 section{
     border: 1px solid red;
     position: relative;
@@ -65,7 +74,7 @@ article{
 main{
     border: 1px solid red;
     padding-left: 10px;
-    width: 800px;
+    width: 80%;
     position: relative;
     display: flex;
     flex-direction: row;
@@ -75,11 +84,11 @@ main{
 aside{
     border: 1px solid red;
     padding-left: 10px;
-    width: 380px;
+    width: 20%;
     position: relative;
-    left: 820px;
-    bottom: 350px;
-    margin-top: 10px;
+    left: 80%;
+    top: 10px;
+
 }
 h1{
   background-color: orange;
