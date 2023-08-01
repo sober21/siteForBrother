@@ -19,6 +19,7 @@ section{
 article{
     border: 1px solid red;
     width:25%;
+    margin: 50px;
 }
 main{
     border: 1px solid red;
@@ -34,7 +35,8 @@ aside{
     width: 380px;
     position: relative;
     left: 820px;
-    bottom: 123px;
+    bottom: 350px;
+    margin-top: 10px;
 }
 h1{
   background-color: yellow;
